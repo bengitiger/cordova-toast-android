@@ -19,5 +19,5 @@ This has only been tested with Cordova 2.3rc2.
 
 License
 =======
-Copyright 2013 Richard Gilmour - http://richardgilmour.co.uk/
+Copyright 2013 Richard Gilmour - [website](http://richardgilmour.co.uk)
 You are free to do whatever you want with these files. If something goes wrong, it's not my fault...
